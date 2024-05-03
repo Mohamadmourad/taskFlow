@@ -4,9 +4,9 @@ import { EmailAuthCredential } from "firebase/auth/cordova";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyD5Xmw4DsDWvWo49rDO0g3dULMO7SvF7jY",
+  apiKey: "......................",
   authDomain: "task-flow-c1a2b.firebaseapp.com",
-  projectId: "task-flow-c1a2b",
+  projectId: "..............",
   storageBucket: "task-flow-c1a2b.appspot.com",
   messagingSenderId: "988442365584",
   appId: "1:988442365584:web:0a9c34a568f499794d5215"
